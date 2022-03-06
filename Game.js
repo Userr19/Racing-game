@@ -214,7 +214,7 @@ function loop() {
 }
 loop();
 
-let ans = confirm("Are you ready ??")
+let ans = confirm("Are you ready motherfucker??")
 
 if(ans == true) {
     data.roads.forEach((obj) => obj.go());
